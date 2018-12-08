@@ -1,0 +1,6 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:zer="http://www.hp.com/webinspect/zerows">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <zer:findAllUsers/>
+   </soapenv:Body>
+</soapenv:Envelope>
